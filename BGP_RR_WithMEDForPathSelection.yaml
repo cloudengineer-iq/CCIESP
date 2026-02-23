@@ -1343,5 +1343,5 @@ links:
 lab:
   description: ''
   notes: ''
-  title: BGP RR
+  title: BGP RR MED For Path Selection
   version: 0.3.0
